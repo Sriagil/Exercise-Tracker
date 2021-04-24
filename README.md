@@ -7,7 +7,7 @@ Technologies Used:
 4.MongDB
 
 To install required node modules on both frontend and backend folder
-npm install
+"npm install"
 
 To run the project
-npm start 
+"npm start "
